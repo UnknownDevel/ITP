@@ -66,6 +66,6 @@ public class HW{
         System.out.println(factorial(4));
         System.out.println(gcd(18, 27));
         System.out.println(ticketSaler(70, 1500));
-        System.out.println(tablessss(7,2));
+        System.out.println(tables(7,2));
     }
 }
