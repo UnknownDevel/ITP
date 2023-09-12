@@ -14,7 +14,7 @@ public class HW{
         return boxes*20 + bags*50 + barrels*100; 
     }
     static String triangleType(int x, int y, int z){
-        if (x == y && x == z && y == z){
+        if (x == y && x == z){
             return "isosceles";
         }
         else if (x == y || x == z || y == z){
