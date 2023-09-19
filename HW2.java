@@ -23,6 +23,7 @@ public class HW2{
         return "No";
         }
     }
+    
     public static void main(String[] args){
         System.out.println(isAnagram("silent", "lisent"));
         System.out.println(isAnagram("asasa", "bobob"));
