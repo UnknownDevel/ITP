@@ -1,6 +1,10 @@
 import java.util.ArrayList;
 import java.util.Collections;
+<<<<<<< HEAD
 //irrelevant comment
+=======
+//completely different comment
+>>>>>>> masterclone
 
 public class HW2{
     static String isAnagram(String a, String b){
